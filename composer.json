@@ -1,0 +1,15 @@
+{
+    "name": "aic513/testing-elisdn",
+    "description": "learning testing",
+    "type": "project",
+    "authors": [
+        {
+            "name": "aic513",
+            "email": "aic513@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "^2.0"
+    }
+}
